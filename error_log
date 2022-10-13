@@ -1,0 +1,185 @@
+[26-Apr-2017 08:55:31 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/ayar.php:12) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:05:05 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/ayar.php:12) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:09:44 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/ayar.php:12) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:10:57 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:12:52 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:12:53 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:12:53 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:12:55 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:13:48 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:16:12 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:16:12 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:16:14 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:23:14 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:23:20 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:23:46 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:23:46 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[26-Apr-2017 09:24:21 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:00 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:00 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:00 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:01 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:40 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:41 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:46 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:25:47 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:29:00 Europe/Minsk] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 12
+[26-Apr-2017 09:30:49 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[29-Apr-2017 18:08:49 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[29-Apr-2017 18:09:11 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[29-Apr-2017 18:20:33 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[29-Apr-2017 18:21:18 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 15
+[29-Apr-2017 18:24:06 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 15
+[29-Apr-2017 18:26:44 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 15
+[29-Apr-2017 18:30:58 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:31:40 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:31:47 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:35:51 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/as7992.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:35:51 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpUt7XEd' to 'dosyalar/as7992.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:37:05 Europe/Minsk] PHP Warning:  move_uploaded_file(/dosyalar/rt6306.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:37:05 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phps1QoEX' to '/dosyalar/rt6306.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:37:16 Europe/Minsk] PHP Warning:  move_uploaded_file(/dosyalar/rt8786.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:37:16 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1db9n4' to '/dosyalar/rt8786.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 18:44:01 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/behzat.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 30
+[29-Apr-2017 18:44:01 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpI3ZS9g' to 'dosyalar/behzat.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 30
+[29-Apr-2017 18:45:48 Europe/Minsk] PHP Parse error:  syntax error, unexpected '$uret' (T_VARIABLE) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 20
+[29-Apr-2017 18:46:21 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:46:23 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[29-Apr-2017 18:48:28 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:52:03 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:52:37 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:53:01 Europe/Minsk] PHP Warning:  move_uploaded_file(/dosyalar/behzat.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:53:01 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCHUFvK' to '/dosyalar/behzat.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:53:19 Europe/Minsk] PHP Warning:  move_uploaded_file(/dosyalar/behzat.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:53:19 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEuM1YT' to '/dosyalar/behzat.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:53:30 Europe/Minsk] PHP Warning:  move_uploaded_file(/dosyalar/behzat.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:53:30 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phplfoycK' to '/dosyalar/behzat.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:54:29 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/behzat.jpg): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:54:29 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpGFeClp' to 'dosyalar/behzat.jpg' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:56:08 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:56:08 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYSC3aP' to 'dosyalar/' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:58:05 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 18:58:05 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpQbHgpT' to 'dosyalar/' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 32
+[29-Apr-2017 19:06:26 Europe/Minsk] PHP Warning:  move_uploaded_file() expects exactly 2 parameters, 1 given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:06:48 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/rt9830.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:06:48 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpBDGCqx' to 'dosyalar/rt9830.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:07:29 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/fg8950.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:07:29 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpCkIDrc' to 'dosyalar/fg8950.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:07:34 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/as4483.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:07:34 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprwfGfw' to 'dosyalar/as4483.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:08:48 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/yu5665.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:08:48 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpDGmlNJ' to 'dosyalar/yu5665.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:09:15 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/as3550.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:09:15 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php47uLtT' to 'dosyalar/as3550.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 29
+[29-Apr-2017 19:12:46 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/3500_Ekran Alıntısı.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:12:46 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVqkqlF' to 'dosyalar/3500_Ekran Alıntısı.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:12:46 Europe/Minsk] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 19:12:46 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpVqkqlF' to '' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 19:15:53 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/6474_Ekran Alıntısı.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:15:53 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKIlPtk' to 'dosyalar/6474_Ekran Alıntısı.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:15:53 Europe/Minsk] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 19:15:53 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKIlPtk' to '' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 19:16:04 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/1298_Ekran Alıntısı.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:16:04 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFEHidI' to 'dosyalar/1298_Ekran Alıntısı.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:16:04 Europe/Minsk] PHP Warning:  move_uploaded_file(): Filename cannot be empty in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 19:16:04 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFEHidI' to '' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 19:18:20 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/8611_Ekran Alıntısı.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:18:20 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpnM5C13' to 'dosyalar/8611_Ekran Alıntısı.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:18:20 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:37
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(37): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 37
+[29-Apr-2017 19:52:10 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/4325_Ekran Alıntısı.PNG): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:52:10 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phppCuGYr' to 'dosyalar/4325_Ekran Alıntısı.PNG' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:52:10 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:37
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(37): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 37
+[29-Apr-2017 19:53:46 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/1394_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:53:46 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phprXjrhR' to 'dosyalar/1394_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 34
+[29-Apr-2017 19:53:46 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:37
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(37): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 37
+[29-Apr-2017 19:56:49 Europe/Minsk] PHP Warning:  chmod(): No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 28
+[29-Apr-2017 19:56:49 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/9929_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:56:49 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpWryzZC' to 'dosyalar/9929_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:56:49 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:38
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(38): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 38
+[29-Apr-2017 19:57:11 Europe/Minsk] PHP Warning:  chmod(): No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 28
+[29-Apr-2017 19:57:11 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/3869_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:11 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php8rDZn3' to 'dosyalar/3869_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:11 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:38
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(38): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 38
+[29-Apr-2017 19:57:22 Europe/Minsk] PHP Warning:  chmod(): Not a directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 28
+[29-Apr-2017 19:57:22 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/220_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:22 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php9VTfrv' to 'dosyalar/220_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:22 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:38
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(38): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 38
+[29-Apr-2017 19:57:32 Europe/Minsk] PHP Warning:  chmod(): No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 28
+[29-Apr-2017 19:57:32 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/5031_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:32 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1LYbCd' to 'dosyalar/5031_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:32 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:38
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(38): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 38
+[29-Apr-2017 19:57:56 Europe/Minsk] PHP Warning:  chmod(): Not a directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 28
+[29-Apr-2017 19:57:56 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/7216_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:56 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXTbfro' to 'dosyalar/7216_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:57:56 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'resim' cannot be null' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:38
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(38): PDOStatement->execute(Array)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(110): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 38
+[29-Apr-2017 19:59:06 Europe/Minsk] PHP Warning:  chmod(): Not a directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 28
+[29-Apr-2017 19:59:06 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/3806_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 19:59:06 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpluYm4n' to 'dosyalar/3806_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 20:01:29 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/446_logo.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 20:01:29 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php04i2k3' to 'dosyalar/446_logo.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 35
+[29-Apr-2017 20:23:36 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:4) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 5
+[29-Apr-2017 20:25:08 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:70) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 2
+[29-Apr-2017 20:25:27 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:56) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 2
+[29-Apr-2017 20:26:21 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:56) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 2
+[29-Apr-2017 20:26:57 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:56) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 3
+[29-Apr-2017 20:27:28 Europe/Minsk] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/furkano1/cafe.furkanozerofficial.com/panel.php:56) in /home/furkano1/cafe.furkanozerofficial.com/ayar.php on line 3
+[29-Apr-2017 20:46:42 Europe/Minsk] PHP Parse error:  syntax error, unexpected '$link' (T_VARIABLE) in /home/furkano1/cafe.furkanozerofficial.com/panel.php on line 96
+[29-Apr-2017 20:52:54 Europe/Minsk] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'order clause'' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php:91
+Stack trace:
+#0 /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php(91): PDO->query('select * from a...', 2)
+#1 /home/furkano1/cafe.furkanozerofficial.com/panel.php(98): include('/home/furkano1/...')
+#2 {main}
+  thrown in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 91
+[29-Apr-2017 21:09:47 Europe/Minsk] PHP Warning:  move_uploaded_file(dosyalar/8727_captcha.php.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 21:09:47 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpstnivu' to 'dosyalar/8727_captcha.php.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 21:10:14 Europe/Minsk] PHP Warning:  move_uploaded_file(/inc/dosyalar/2492_captcha.php.png): failed to open stream: No such file or directory in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 21:10:14 Europe/Minsk] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phphpC9VC' to '/inc/dosyalar/2492_captcha.php.png' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 21:15:19 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 69
+[29-Apr-2017 21:16:00 Europe/Minsk] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 69
+[29-Apr-2017 21:45:48 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 21:47:28 Europe/Minsk] PHP Parse error:  syntax error, unexpected 'rand' (T_STRING) in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 36
+[29-Apr-2017 21:51:37 Europe/Minsk] PHP Strict Standards:  Only variables should be passed by reference in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 8
+[29-Apr-2017 22:04:55 Europe/Minsk] PHP Warning:  end() expects parameter 1 to be array, null given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 9
+[29-Apr-2017 22:05:07 Europe/Minsk] PHP Warning:  end() expects parameter 1 to be array, null given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 9
+[29-Apr-2017 22:05:12 Europe/Minsk] PHP Warning:  end() expects parameter 1 to be array, null given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 9
+[29-Apr-2017 22:08:48 Europe/Minsk] PHP Warning:  end() expects parameter 1 to be array, null given in /home/furkano1/cafe.furkanozerofficial.com/inc/resimler.php on line 9

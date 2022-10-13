@@ -1,0 +1,384 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-image: url(img/bg.png);
+}
+#container {
+    margin:0 auto;
+    max-width: 1400px;
+    height: auto;
+}
+.header {
+    background-color: burlywood;
+    height: 700px;
+    width: 100%;
+    margin-top: 50px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(img/b_1400x800.jpg);
+    box-shadow: 5px 3px 15px 6px grey;
+    border-radius: 5px;
+}
+#logo {
+    height: 200px;
+    width: 300px;
+}
+.liler {
+    float: left;
+    margin-right: 0px;
+}
+#menu {
+    position: relative;
+    bottom: 150px;
+    left: 1250px;
+}
+.clear {clear: both}
+#ic_menu {
+    display: none;
+    position: absolute;
+    top: 15px;
+    left: 140px;
+    z-index: 999;
+}
+.alar {
+    color: snow;
+    border: 3px solid darkorange;
+    border-radius: 5px;
+    padding: 15px 25px;
+}
+#ilk :hover {
+    transition: 250ms;
+    border: 3px solid chocolate;
+    border-radius: 10px;
+}
+#ucuncu :hover {
+    transition: 250ms;
+    border: 3px solid chocolate;
+    border-radius: 10px;
+}
+#buyuk_yazi {
+    font-size: 50px;
+    color: lightgray;
+    margin-left: 275px;
+    margin-top: 250px;
+    font-family: "Ave Fedan PERSONAL USE ONLY";
+}
+#koyu_yazi {
+    color: darkgray;
+}
+#tus {
+    width: 30px;
+    height: 30px;
+    display: none;
+}
+#tus_resim {
+    width: 60px;
+    height: 60px;
+}
+#yukari {
+    position: fixed;
+    bottom: 0px;
+    left:0px;
+}
+#yukari_img {
+    width: 25px;
+    height: 50px;
+}
+.tuslar {
+    width: 40px;
+    height: 40px;
+}
+#tuslar {
+    position: relative;
+    top:100px;
+    left:50px;
+}
+#cesit {
+}
+#cesit_yazi {
+    margin-top: 20px;
+    font-size: 46px;
+    color: #CC5735;
+    font-family: "Brush Script Std";
+}
+#sag {
+    margin-top: 20px;
+    width: 48%;
+    float: right;
+}
+#sol {
+    margin:20px;
+    width: 48%;
+    float: left;
+}
+#icecek_baslik {
+    font-family: "Ebrima";
+    text-align: center;
+    font-size: 40px;
+    color:#CC5735;
+    font-style: oblique;
+}
+.icecek {
+    font-size: 22px;
+    font-family: "Corbel";
+    color: #555555;
+}
+#yiyecek_baslik {
+    font-family: "Ebrima";
+    text-align: center;
+    font-size: 40px;
+    color:#CC5735;
+    font-style: oblique;
+}
+.ul_ul {
+    list-style-type: circle;
+    display: none;
+    margin-left: 40px;
+    color: black;
+}
+#pizza {
+    cursor: pointer;
+}
+.yiyecek {
+    margin-top: 10px;
+    font-size: 26px;
+    margin-bottom: 15px;
+    cursor: pointer;
+    font-family: "Corbel";
+    color: #555555;
+}
+.img {
+    width: 50px;
+    height: 50px;
+}
+#pizza:hover {
+    transition: 200ms;
+    color: #CC5735;
+}
+#ana_yemekler:hover {
+    transition: 200ms;
+    color: #CC5735;
+}
+#omletler:hover {
+    transition: 200ms;
+     color: #CC5735;
+ }
+#kahvalti:hover {
+    transition: 200ms;
+    color: #CC5735;
+}
+#aparatif_yemekler:hover {
+    transition: 200ms;
+    color: #CC5735;
+}
+#tag {
+
+}
+.jpg {
+    cursor: zoom-in;
+    box-shadow: 1px 5px 10px gray;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: 1px solid gray;
+    width: 49%;
+    height: 400px;
+    float: left;
+    margin-right: 5px;
+}
+#buton {
+    font-family: Constantia;
+    color: white;
+    border-radius: 10px;
+    background-color: #CC5735;
+    cursor: pointer;
+    box-shadow: 1px 5px 10px white;
+    padding: 50px;
+    font-size: 24px;
+    margin-top: 20px;
+}
+#foto_galeri {
+    font-family: "Brush Script Std";
+    color: #CC5735;
+    font-size: 36px;
+    cursor: pointer;
+}
+#foto_galeri:active {
+    color: red;
+}
+#buton:hover {
+    box-shadow: 2px 5px 30px 5px gray;
+    border-radius: 30px;
+    transition: 200ms;
+    padding: 60px;
+}
+iframe {
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px;
+}
+#burdayiz {
+    font-family: "Helvetica";
+    color: #CC5735;
+    font-size: xx-large;
+}
+.tik {
+    width: 20px;
+    height: 20px;
+}
+#footer {
+    font-family: Helvetica;
+    width: 100%;
+    color: white;
+    background-color: #555555;
+}
+#footer span {
+    margin-left: 150px;
+}
+#telefon {
+    font-family: Helvetica;
+    text-decoration: underline;
+    color: #CC5735;
+    text-align: center;
+    font-size: 48px;
+}
+#ben {
+    float: right;
+}
+#ben a{
+    color: white;
+}
+    /*   geldik responsive   */
+    /*dikkat civciv başlıyor*/
+@media screen and (max-width: 767px) {
+    #logo {
+        width: 150px;
+        height: 100px;
+    }
+    #header {
+        width: 767px;
+        background-image: url("img/Adsız-2.fw.png");
+    }
+    #buyuk_yazi {
+        margin-top: 50%;
+        margin-left: 10%;
+        font-size: 45px;
+    }
+    #menu {
+        display: none;
+    }
+    .jpg {
+        width: 100%;
+    }
+    #sag, #sol {
+        text-align: center;
+        margin: 0 auto;
+    }
+    #sag {
+        float: left;
+    }
+    #tag {
+        margin: 1%;
+    }
+    .ul_ul {
+        text-decoration: underline;
+    }
+    #buton:hover{
+        font-family: Constantia;
+        color: white;
+        border-radius: 10px;
+        background-color: #CC5735;
+        cursor: pointer;
+        box-shadow: 1px 5px 10px white;
+        padding: 50px;
+        font-size: 24px;
+        margin-top: 20px;
+    }
+    #footer span {
+        text-align: center;
+    }
+    iframe {
+        width: auto;
+    }
+}
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font: 12px Arial;
+}
+a {text-decoration: none}
+ul {list-style: none}
+
+/* Slider */
+#slider {
+    margin: 20px;
+    width: 500px;
+    margin:20px auto;
+}
+.slider {
+    width: 500px;
+    height: 200px;
+    overflow: hidden;
+    box-shadow: 2px 2px 2px 2px gray;
+}
+.slider ul {
+    overflow: hidden
+}
+.slider ul li {
+    width: 500px;
+    height: 200px;
+    float: left;
+}
+.sliderButon {
+    text-align: right;
+    padding-top: 10px;
+}
+.sliderButon a {
+    background: #333;
+    color: #fff;
+    padding: 5px;
+}
+#onceki {
+    margin-right: 380px;
+}
+#onceki:hover{
+    transition: 250ms;
+    background-color: lightgrey;
+    color: black;
+}
+#sonraki:hover{
+    transition: 250ms;
+    background-color: lightgrey;
+    color: black;
+}
